@@ -1,0 +1,4 @@
+tensorflow
+tf-nightly
+tf-nightly-gpu
+tensorflow-model-optimization
